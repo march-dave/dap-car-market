@@ -211,7 +211,7 @@ class App extends React.Component {
       <div className="container-fluid">
     
         <div style={{marginLeft: "35vw", marginTop: "20px"}}>
-          <h1>Namdaemun Marketplace</h1>
+          <h1>Car Market Escrow</h1>
         </div>
 
         <div
